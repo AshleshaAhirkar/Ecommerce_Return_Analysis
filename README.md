@@ -134,10 +134,7 @@ Business Recommendations
 
 ## Dashboard 2 – Customer Risk Analysis
 
-> *📌 Add Dashboard 2 Screenshot Here*
-
-markdown
-![Customer Risk Dashboard](Dashboard%20Screenshots/customer_risk_analysis.png)
+![Customer Risk Dashboard](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Customer%20Risk%20Analysis.png)
 
 
 ### Dashboard Highlights
