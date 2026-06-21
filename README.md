@@ -82,14 +82,17 @@ The dataset contains transactional records of an online retail business, includi
 
 ## 🔄 Project Workflow
 
-```mermaid
-flowchart LR
-    A[Raw Dataset] --> B[Data Cleaning]
-    B --> C[SQL Business Analysis]
-    C --> D[Power BI Dashboard Development]
-    D --> E[Business Insights]
-    E --> F[Business Recommendations]
-```
+- 📂 Raw Dataset
+  ↓
+- 🧹 Data Cleaning
+  ↓
+- 🗄️ SQL Business Analysis
+  ↓
+- 📊 Power BI Dashboard Development
+  ↓
+- 💡 Business Insights
+  ↓
+- ✅ Business Recommendations
 ---
 
 ## 🏗️ Project Architecture
