@@ -26,8 +26,8 @@ This project transforms raw transactional data into meaningful business insights
 
 ## 📂 Dataset Information
 
-*Dataset:* E-Commerce Retail Dataset
-*Dataset Link:* https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com
+- *Dataset:* E-Commerce Retail Dataset
+- *Dataset Link:* https://archive.ics.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com
 
 The dataset contains transactional records of an online retail business, including:
 
