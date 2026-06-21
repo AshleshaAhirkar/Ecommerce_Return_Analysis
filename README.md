@@ -233,12 +233,7 @@ This project enables businesses to:
 
 🔗 *Power BI Dashboard*
 
-*Add your Live Dashboard Link Here*
-
-Example:
-
-text
-https://app.fabric.microsoft.com/view?r=xxxxxxxxxxxxxxxxxxxxxxxx
+https://app.fabric.microsoft.com/view?r=eyJrIjoiMzFiYmU2ZGEtYzQ0MS00MTljLWFjZmMtZmU0ZGFkY2RlNmIzIiwidCI6IjllZGMyZjZmLTc4YjUtNDZjMS1iYzkwLTNkZGM0NjExNWE4NiJ9
 
 
 ---
