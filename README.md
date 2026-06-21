@@ -230,17 +230,17 @@ https://app.fabric.microsoft.com/view?r=eyJrIjoiMzFiYmU2ZGEtYzQ0MS00MTljLWFjZmMt
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
-text
+plaintext
 Ecommerce-Return-Analysis/
 │
-├── 📂 Dataset
-├── 📂 SQL Scripts
-├── 📂 Dashboard Screenshots
-├── 📂 Dashboard Architecture
-├── 📂 Documentation
-├── 📂 Power BI Dashboard
+├── 📂 Dataset/
+├── 📂 SQL Scripts/
+├── 📂 Dashboard Screenshots/
+├── 📂 Dashboard Architecture/
+├── 📂 Documentation/
+├── 📂 Power BI Dashboard/
 ├── 📄 Project Documentation.pdf
 ├── 📄 README.md
 └── 📄 Ecommerce_Return_Analysis.pbix
