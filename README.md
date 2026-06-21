@@ -103,14 +103,9 @@ Business Recommendations
 
 ---
 
-## 🏗️ Dashboard Architecture
+## 🏗️ Project Architecture
 
-> *📌 Add Dashboard Architecture Image Here*
-
-Example:
-
-markdown
-![Dashboard Architecture](Dashboard%20Architecture/dashboard_architecture.png)
+![Project Architecture](https://github.com/AshleshaAhirkar/Ecommerece_Return_Analysis/blob/main/Project%20Architecture.png)
 
 
 ---
